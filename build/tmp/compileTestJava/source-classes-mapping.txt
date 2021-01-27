@@ -1,0 +1,8 @@
+com/book_reading_history/web/HelloControllerTest.java
+ com.book_reading_history.web.HelloControllerTest
+com/book_reading_history/web/dto/HelloResponseDtoTest.java
+ com.book_reading_history.web.dto.HelloResponseDtoTest
+com/book_reading_history/domain/posts/PostsRepositoryTest.java
+ com.book_reading_history.domain.posts.PostsRepositoryTest
+com/book_reading_history/web/PostsApiControllerTest.java
+ com.book_reading_history.web.PostsApiControllerTest
