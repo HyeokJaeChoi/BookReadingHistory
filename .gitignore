@@ -28,4 +28,4 @@ blog/bin/
 hs_err_pid*
 
 # security info
-src/main/resources/application-oauth.properties
+**/main/resources/application-oauth.properties
