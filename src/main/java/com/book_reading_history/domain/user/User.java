@@ -2,9 +2,14 @@ package com.book_reading_history.domain.user;
 
 import com.book_reading_history.domain.BaseTimeEntity;
 import lombok.Builder;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
 
+@Getter
+@NoArgsConstructor
+@Entity
 public class User extends BaseTimeEntity {
 
     @Id
